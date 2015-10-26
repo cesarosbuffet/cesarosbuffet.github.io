@@ -1,1 +1,1 @@
-"use strict";console.log("test");
+"use strict";!function(e,t,a,n,c,s,i){e.GoogleAnalyticsObject=c,e[c]=e[c]||function(){(e[c].q=e[c].q||[]).push(arguments)},e[c].l=1*new Date,s=t.createElement(a),i=t.getElementsByTagName(a)[0],s.async=1,s.src=n,i.parentNode.insertBefore(s,i)}(window,document,"script","//www.google-analytics.com/analytics.js","ga"),ga("create","UA-69199222-1","auto"),ga("require","linkid"),ga("send","pageview");
